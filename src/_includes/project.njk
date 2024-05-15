@@ -3,9 +3,13 @@ layout: "base.njk"
 ---
 
 <div class="project">
+  <!-- added a back button to the top of the page -->
+  <!-- style it later with a logo if I had one? -->
+  <a href="javascript:history.back()" style="font-size: 80px; text-decoration: none">&#9204;</a>
+
   <h2 class="project__heading">{{ title }}</h2>
   <div class="project__image-wrapper">
-    {% EleventyImage image, imageAlt, "(min-width: 30em) 50vw, 100vw" %}
+    {% EleventyImage image, imageAlt, "(min-width: 30em) 50vw, 60vw" %}
   </div>
   <div class="project__content prose">
 	{{ content | safe }}
