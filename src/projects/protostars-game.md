@@ -12,7 +12,9 @@ repoUrl: "#"
 
 ### Project Description
 
-I was part of a 2 person developer team working on this game at [Evolved Play](https://www.evolvedplay.com) from May 2021 to Sept. 2022 working with a team of game industry veterans; the creative leads were [Kevin Caldwell](https://www.linkedin.com/in/kevin-c-1630824/) & [Sandee Vallee](https://www.linkedin.com/in/sandeevalle/) with game design  by [Kelly Tran](https://www.linkedin.com/in/kmichaelatran/) - it was a very collaborative process.   The game was going through iterative game play refinement & testing with young players & their families; it was coming along quite nicely if I may say so.  The project was being developed for mobile first.
+May 2021 to Sept 2022
+
+I was part of a 2 person developer team working on this game at [Evolved Play](https://www.evolvedplay.com) working with a team of game industry veterans; the creative leads were [Kevin Caldwell](https://www.linkedin.com/in/kevin-c-1630824/) & [Sandee Vallee](https://www.linkedin.com/in/sandeevalle/) with game design  by [Kelly Tran](https://www.linkedin.com/in/kmichaelatran/) - it was a very collaborative process.   The game was going through iterative game play refinement & testing with young players & their families; it was coming along quite nicely if I may say so.  The project was being developed for mobile first.
 
 One of the major features that I was working on a space map level using hexagonal tile maps:
 
