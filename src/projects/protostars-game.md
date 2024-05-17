@@ -1,18 +1,23 @@
 ---
 title: "Protostars"
 summary: "An game of exploration for children"
-image: /assets/proto-stars-game.png
+image: /assets/protostars-1-game.png
 imageAlt: "Screenshot of Protostars"
 tech:
   - "Unity"
   - "C#"
+  - "multiplayer"
 siteUrl: "#"
 repoUrl: "#"
 ---
 
 ### Project Description
 
-I was part of a 2 person developer team working on this game at [Evolved Play](https://www.evolvedplay.com) from May 2021 to Sept. 2022 working with a team of game industry veterans; the creative leads were [Kevin Caldwell](https://www.linkedin.com/in/kevin-c-1630824/) & [Sandee Vallee](https://www.linkedin.com/in/sandeevalle/) with game design  by [Kelly Tran](https://www.linkedin.com/in/kmichaelatran/) - it was a very collaborative process.   The game was going through iterative game play refinement & testing with young players & their families; it was coming along quite nicely if I may say so.  The project was being developed for mobile first.
+May 2021 to Sept 2022
+
+I was part of a 2 person developer team working on this game at [Evolved Play](https://www.evolvedplay.com) working with a team of game industry veterans; the creative leads were [Kevin Caldwell](https://www.linkedin.com/in/kevin-c-1630824/) & [Sandee Vallee](https://www.linkedin.com/in/sandeevalle/) with game design  by [Kelly Tran](https://www.linkedin.com/in/kmichaelatran/) - it was a very collaborative process.   The game was going through iterative game play refinement & testing with young players & their families; it was coming along quite nicely if I may say so.  The project was being developed for mobile first.
+
+Multiplayer support was added using [Photon](https://www.photonengine.com/pun#)
 
 One of the major features that I was working on a space map level using hexagonal tile maps:
 
@@ -21,3 +26,9 @@ One of the major features that I was working on a space map level using hexagona
 - obstacles could be removed by using actions associated with available energy
 - there was performance issue with path finding which was resolved by using the Unity jobs system & this incredible asset called [Any Path](https://bartvandesande.nl/anypath/index.html); doing path finding is an expensive task - the available paths would be computed every time that a player moved
 
+![Tumble Text gameplay](../../assets/protostars-2-game.png)
+- hex tile map in the Unity editor
+
+![Tumble Text gameplay](../../assets/protostars-3-game.png)
+
+![Tumble Text gameplay](../../assets/protostars-4-game.png)
