@@ -9,6 +9,8 @@ siteUrl: "#"
 repoUrl: "#"
 ---
 
+[link to demo animation](http://www.manjitbedi.com/projects/Rive-tests/)
+
 I have been learning to how to use Rive - a tool for making animations that can be deployed to iOS, Unity, Web etc.
 
 [Rive.app](https://www.rive.app)
