@@ -64,7 +64,7 @@ a {
 
 .heightSet {
   width: auto; 
-  height: 60px;
+  height: 40px;
 }
 
 /* Utility Classes */
@@ -247,47 +247,6 @@ hr {
   text-decoration: underline;
 }
 
-/* Technologies Styles */
-
-.technologies__heading {
-  margin-bottom: 1.5rem;
-  padding: 1rem 0;
-  font-size: 2.5rem;
-  text-align: center;
-  font-weight: 700;
-  color: var(--amber-600);
-}
-
-.technologies__list {
-  width: 100%;
-  max-width: 36rem;
-  margin: 0 auto;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(125px, 1fr));
-  gap: 1.5rem;
-}
-
-.technologies__item {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.technologies__logo {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 2rem;
-  height: 100%;
-  margin-bottom: 0.5rem;
-}
-
-.technologies__title {
-  font-weight: 400;
-  color: var(--slate-600);
-}
-
 /* Skills */
 .skills-container {
     padding: 6rem 0;
@@ -317,7 +276,7 @@ hr {
     justify-content: center;
     align-items: center;
     gap: 0 1rem;
-    padding: 1rem;
+    padding: 0.25rem;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     transition: all 0.5s ease-in-out;
@@ -327,31 +286,6 @@ hr {
 .skills-container .grid-skills i {
     font-size: 1.5rem;
 }
-
-.skills-container .grid-skills .html:hover {
-    background-color: #E34F26;
-}
-
-.skills-container .grid-skills .css:hover {
-    background-color: #264DE4;
-}
-
-.skills-container .grid-skills .js:hover {
-    background-color: #F7DF1E;
-}
-
-.skills-container .grid-skills .react:hover {
-    background-color: #61DAFB;
-}
-
-.skills-container .grid-skills .node:hover {
-    background-color: #339933;
-}
-
-.skills-container .grid-skills .python:hover {
-    background-color: #3776AB;
-}
-
 
 /* Project Styles */
 
