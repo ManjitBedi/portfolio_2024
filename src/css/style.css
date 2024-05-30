@@ -50,6 +50,10 @@ picture {
   display: block;
 }
 
+img.smaller {
+  width: 50%;
+}
+
 input,
 button,
 textarea,

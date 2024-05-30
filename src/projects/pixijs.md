@@ -41,7 +41,6 @@ I created a starter project & made it public in [GitHub](https://github.com/Manj
 
 <br/>  
 
-
-![home page code](../../assets/home-page-code.png)
-
-![home page screenshot 2](../../assets/home-page-2.png)
+<img class="smaller"  src="../../assets/home-page-code.png">
+<br/>
+<img class="smaller"  src="../../assets/home-page-2.png">
