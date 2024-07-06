@@ -54,6 +54,20 @@ img.smaller {
   width: 50%;
 }
 
+.badge-link {
+  display: inline-block;
+  font-size: 0;
+  line-height: 0;
+  padding: 0;
+  margin: 0;
+}
+
+.badge-link img.badge {
+  display: block;
+  width: 15%;
+  height: auto;
+  object-fit: contain;
+}
 input,
 button,
 textarea,
