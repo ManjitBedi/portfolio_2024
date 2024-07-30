@@ -16,6 +16,11 @@ repoUrl: "#"
 
 July 2024
 
+<video width="273" height="204" autoplay loop>
+  <source src="/assets/visionOS.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 I am currently working with getting the "White Hills" app to work natively in [visionOS](https://developer.apple.com/visionos/).  There was some challenges along the way - which is not unexpected.  I documented some of the technical details here:
 
 [Notion page](https://false-balmoral-27e.notion.site/Porting-UI-Kit-apps-to-visionOS-8f53bd7e66c74a07872c86d929eb4fa1?pvs=4)
